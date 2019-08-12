@@ -1,0 +1,14 @@
+{
+  "name": "studio51.solutions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/studio51/studio51.solutions",
+  "author": "Vlad Radulescu",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^1.12.3",
+    "parcel-bundler": "^1.12.3",
+    "parcel-plugin-imagemin": "^3.0.0",
+    "parcel-plugin-lazy": "^0.0.4"
+  }
+}
